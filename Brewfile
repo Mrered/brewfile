@@ -1,7 +1,6 @@
 tap "brewforge/chinese"
 tap "brewforge/extras"
 tap "buo/cask-upgrade"
-tap "cloudflare/cloudflare"
 tap "gromgit/fuse"
 tap "homebrew/bundle"
 tap "homebrew/cask", "https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-cask.git"
